@@ -3,4 +3,5 @@
     <string name="username">username</string>
     <string name="password">password</string>
     <string name="my_biodata">My Biodata</string>
+    <string name="login">Login</string>
 </resources>
